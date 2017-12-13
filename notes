@@ -1,0 +1,10 @@
+notes
+-I messed up and lost 2 data points. #Last line might be genuinely corrupted. So check.
+
+-./keras.sh : do export _home_envs stuff and do workon keras
+
+- do source keras.sh
+tests
+01:00 04/21/2017 : Convnet does best, but still sucks. 26%
+need to look into proper preprocessing, architecture.
+-maybe run on mnist to see configuration is fine

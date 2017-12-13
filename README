@@ -1,0 +1,34 @@
+CS 63 Lab 19
+Do June Min(dmin1)
+Jeremy Han(jhan2)
+
+#How to run the code
+Run 
+$python main.py 
+Then, you will be prompted to choose an algorithm you want to run.
+After that, the program starts processing data, trains the classifier, and then outputs the result.
+
+#Requirements: 
+To run the code, the following libraries are needed.
+You can install them by running
+$pip install (packagename)
+
+graphviz (0.6)
+h5py (2.7.0)
+Keras (2.0.3)
+matplotlib (2.0.0)
+numpy (1.12.1)
+Pillow (4.1.0)
+pydot (1.2.3)
+pydot-ng (1.0.0)
+pydotplus (2.0.2)
+pyparsing (2.2.0)
+python-dateutil (2.6.0)
+scikit-image (0.13.0)
+scikit-learn (0.18.1)
+scipy (0.19.0)
+tensorflow (1.0.1)
+Theano (0.9.0)
+
+
+
